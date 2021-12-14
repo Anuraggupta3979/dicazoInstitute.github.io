@@ -1,0 +1,30 @@
+.imga img{
+    height: 350px;
+}
+#services .box img{
+    height: 120px;
+}
+iframe{
+    height: 365px;
+    width: 85%;
+}
+.h-secondary{
+    font-size: 1.4rem;
+}
+.center2{
+    /* text-align: center; */
+    padding: 6px;
+    margin: 26px 9px;
+    font-size: 20px;
+}
+header .checkbtn{
+    margin-right: 100px;
+}
+.center3{
+    padding: 6px;
+    margin: 26px 9px;
+    font-size: 20px;
+}
+header.sticky ul li a {
+    color: #fff3f3;
+}
